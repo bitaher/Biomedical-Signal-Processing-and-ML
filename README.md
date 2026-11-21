@@ -2,7 +2,7 @@
 
 This project compares logistic regression, a random forest, and a support vector machine on three electromyography (EMG) recordings. Each model uses four time-domain features to classify 200 ms windows from recordings labeled healthy, myopathy, and neuropathy.
 
-[Analysis notebook](./Sharif_EMG_corrected.ipynb)
+[Analysis notebook](./Bita_HERAVI_ML_Project.ipynb)
 
 ## Dataset
 
